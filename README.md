@@ -1,7 +1,7 @@
 # study_LangChain
 
 * LangChainの学習メモ用repository
-*『LangChainとLangGraphによるRAG・AIエージェント実践入門（西田公宏）』書籍の学習内容をまとめる
+* 『LangChainとLangGraphによるRAG・AIエージェント実践入門（西田公宏）』書籍の学習内容をまとめる
 
 ## notebook内容
 * 01_study_LCEL.ipynb
